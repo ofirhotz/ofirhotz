@@ -7,6 +7,8 @@
 <a href="https://www.linkedin.com/in/ofirhotz/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofir hotz" height="30" width="40" /></a>
 
+ <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofir hotz" height="30" width="40" /></a>
 </p>
 
 
